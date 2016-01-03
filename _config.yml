@@ -11,4 +11,6 @@ url: "http://vikrant.info" # the base hostname & protocol for your site
 github_username: tuachotu
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
