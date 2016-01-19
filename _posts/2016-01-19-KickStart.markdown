@@ -4,7 +4,7 @@ title: Kick Start Person
 date: 2016-01-02
 ---
 
-![KickStart](htttp://vikrant.info/blog/assets/sport-runner-running-sprints-marathons-sprinters-ptr0123_low.jpg)
+![KickStart](http://tuachotu.github.io/assets/sport-runner-running-sprints-marathons-sprinters-ptr0123_low.jpg)
 
 Kick start.. thats what I think I am. I need a kick to start following something for which  I am meant for.
 It is few weeks since I finished up on setting up this blog and my website. I should have written more.. but have not.
