@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This blog is running on base Jekyll. Hosted on github. I write about my thoughts and experinces on this blog. You can
-find more about me on my site vikrant.info. If you want to reach to me drop me an email @ vikrant.subscribe on gmail .
+I am Mom of a toddler, aspiring enterpurner & passoinate software tester.This blog is about my thoughts on world around me and ajournal of my enterpurnal journey. 
+You can reach me at taanayya@gmail.com
