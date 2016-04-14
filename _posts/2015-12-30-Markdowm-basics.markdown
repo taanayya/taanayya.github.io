@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "my first post"
+title:  "Markdown basics
 date:   2015-12-30 22:12:44 -0800
 categories: status post
 ---
+
+
 This post contains details of platform used for this blog. My blog is hosted on github and served using jekyll.
 Blog is written using redcarpet markdown.
 
